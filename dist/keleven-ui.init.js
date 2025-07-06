@@ -1,6 +1,6 @@
 
 
-import KelevenUI from './keleven-ui.js';
+import KelevenUI from './keleven-ui.min.js';
 
 // Create an instance of the framework with options
 const keleven = new KelevenUI({
