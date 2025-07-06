@@ -4,7 +4,7 @@
  *
  * Author      : Keleven Studio
  * Contributor : Kaustav M. Bhuyan
- * Version     : 2.1.0
+ * Version     : 2.2.3
  * License     : MIT
  *
  * Copyright (c) 2025 Keleven Studio and Kaustav M. Bhuyan.
