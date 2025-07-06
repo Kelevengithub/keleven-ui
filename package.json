@@ -1,0 +1,29 @@
+{
+  "name": "keleven-ui",
+  "version": "2.2.0",
+  "description": "A dynamic, state-driven UI framework with plugins.",
+  "main": "dist/keleven-ui.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kelevengithub/keleven-ui.git"
+  },
+  "keywords": [
+    "ui",
+    "framework",
+    "keleven",
+    "javascript",
+    "keleven-ui"
+  ],
+  "author": "Kaustav Mohan Bhuyan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Kelevengithub/keleven-ui/issues"
+  },
+  "homepage": "https://github.com/Kelevengithub/keleven-ui#readme",
+  "files": [
+    "dist/"
+  ]
+}
