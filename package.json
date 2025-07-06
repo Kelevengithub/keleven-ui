@@ -1,8 +1,8 @@
 {
   "name": "keleven-ui",
-  "version": "2.2.1",
+  "version": "2.2.3",
   "description": "A dynamic, state-driven UI framework with plugins.",
-  "main": "dist/keleven-ui.min.js",
+  "main": "dist/keleven-ui.bundle.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
