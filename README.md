@@ -273,7 +273,7 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 ## 🧑‍💻 Author & Developer
 
 **Author:** Keleven Studio.  
-**Developer:** Kaustav Mohan Bhuyan
+**Developer:** Kaustav Mohan Bhuyan.  
 GitHub: [Kelevengithub](https://www.google.com/search?q=https://github.com/Kelevengithub)
 
 -----
