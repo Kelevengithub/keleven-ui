@@ -2,7 +2,6 @@
 
 **A Dynamic, State-Driven UI Framework with Design Tokens and Plugin Support**
 
-[](https://www.google.com/search?q=LICENSE)
 
 -----
 
@@ -267,7 +266,7 @@ The framework is designed for extensibility. You can extend the base `KelevenCom
 
 ## ⚖️ License
 
-This project is licensed under the MIT License. See the [LICENSE](https://www.google.com/search?q=LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
 
 -----
 
